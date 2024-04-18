@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ushan Mihiranga</h1>
 <h3 align="center">I'm at SLIIT, studying Information Technology Software Engineering, and passionate about tech and software development.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?sca_esv=c2c122aff106e202&sca_upv=1&sxsrf=ACQVn0-Mjo2N-RPOM5vSlwkFXY-GC2gKyg:1713430844586&q=animation+coding+gif&uds=AMwkrPubqdDjBmC7DhicLtpZCZYi299u7ugK_jtKpUf59T3pYVoHyfDvtbdLPQyHdWo2meYHlMQNvy4X-2sODz1jyGDvEvKpP6LueaGa8W1GpHMgaVRL3Sv0D_V6dHpS5H1nZDHnZ6VFBpKvNY-8LuAXgfnaRyucRYtjRS-lNN1WBFSehM3NuA5bfOuFuGI92Tiazg1bkbJObhxK7s2H9Ph8LFWvlb1rFUfbZjH2g7tWkbUeM0yWH8B0K1HSXekVVDrj45-HaXOzlOANfblmCUC8Ckbz3SNQkSeJUpap4C4dlnE8T5_FtbM&udm=2&prmd=ivsnbmz&sa=X&sqi=2&ved=2ahUKEwj2utqms8uFAxWqUGcHHYHpCPAQtKgLegQIEhAB&biw=1536&bih=730&dpr=1.25#vhid=ZmOH4FBlhx83-M&vssid=mosaic">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ushan2001&label=Profile%20views&color=0e75b6&style=flat" alt="ushan2001" /> </p>
 
