@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/file/d/1sAuz962i-1EXVsGN4FByUYpZ3CPmNmqf/view?usp=sharing)
+![MasterHead](blob:https://mysliit-my.sharepoint.com/6f4b55b9-a831-412e-8d3f-79adc7fcdb2c)
 <h1 align="center">Hi 👋, I'm Ushan Mihiranga</h1>
 <h3 align="center">I'm at SLIIT, studying Information Technology Software Engineering, and passionate about tech and software development.</h3>
 
