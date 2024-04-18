@@ -1,4 +1,4 @@
-![MasterHead](blob:https://mysliit-my.sharepoint.com/6f4b55b9-a831-412e-8d3f-79adc7fcdb2c)
+![MasterHead](https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif)
 <h1 align="center">Hi 👋, I'm Ushan Mihiranga</h1>
 <h3 align="center">I'm at SLIIT, studying Information Technology Software Engineering, and passionate about tech and software development.</h3>
 
