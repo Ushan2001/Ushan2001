@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ushan Mihiranga</h1>
 <h3 align="center">I'm at SLIIT, studying Information Technology Software Engineering, and passionate about tech and software development.</h3>
 
