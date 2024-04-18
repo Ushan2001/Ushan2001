@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ushan Mihiranga</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="center">I'm at SLIIT, studying Information Technology Software Engineering, and passionate about tech and software development.</h3>
 
 
@@ -15,6 +14,7 @@
 - 💬 Ask me about **React, Java**
 
 - 📫 How to reach me **ushanmihiranga2017@gmail.com**
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
