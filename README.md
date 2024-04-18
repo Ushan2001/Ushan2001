@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ushan2001&label=Profile%20views&color=0e75b6&style=flat" alt="ushan2001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ushan2001" alt="ushan2001" /></a> </p>
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Fonix Software Solution**
 
@@ -14,7 +15,7 @@
 - 💬 Ask me about **React, Java**
 
 - 📫 How to reach me **ushanmihiranga2017@gmail.com**
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
