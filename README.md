@@ -1,5 +1,4 @@
-![MasterHead]([https://imgur.com/gallery/R6PZlWy](https://imgur.com/GrS9PjO))
-
+![MasterHead](https://imgur.com/GrS9PjO)
 <h1 align="center">Hi 👋, I'm Ushan Mihiranga</h1>
 <h3 align="center">I'm at SLIIT, studying Information Technology Software Engineering, and passionate about tech and software development.</h3>
 
