@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://www.canva.com/design/DAGCx8tXTnk/ONUKYtdqiLB5yfONx3b_kg/view?utm_content=DAGCx8tXTnk&utm_campaign=designshare&utm_medium=link&utm_source=editor)]
 <h1 align="center">Hi 👋, I'm Ushan Mihiranga</h1>
 <h3 align="center">I'm at SLIIT, studying Information Technology Software Engineering, and passionate about tech and software development.</h3>
 
