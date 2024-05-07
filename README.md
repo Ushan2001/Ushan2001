@@ -6,10 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ushan2001&label=Profile%20views&color=0e75b6&style=flat" alt="ushan2001" /> </p>
 
-<br>
-  <img align="right" alt="Coding" width="250"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 💫 About Me:
+ <img align="right" alt="Coding" width="250"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br>🔭 I’m currently working on Fonix Software Solution<br><br>🌱 I’m currently learning SLIIT<br><br>💬 Ask me about React, Java<br><br>📫 How to reach me ushanmihiranga2017@gmail.com
 
 
