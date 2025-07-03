@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Ushan2001/Ushan2001/blob/master/git.gif" alt="MasterHead" width="100%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+  <img src="https://github.com/Ushan2001/Ushan2001/blob/master/ushan.gif" alt="MasterHead" width="100%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
 </div>
 
 <h1 align="center">
