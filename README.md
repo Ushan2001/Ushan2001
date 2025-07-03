@@ -190,10 +190,6 @@ const ushan = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=75" alt="Footer Wave" />
 </div>
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ushan2001&icon=7&color=4&pretty=true" alt="Visit Count" />
-</div>
-
 ---
 
 <div align="center">
