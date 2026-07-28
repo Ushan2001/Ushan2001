@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg">
-  <img src="./banner-dark.svg" alt="Ushan Mihiranga" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ushan2001/Ushan2001/main/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ushan2001/Ushan2001/main/banner-light.svg">
+  <img alt="Ushan Mihiranga" src="https://raw.githubusercontent.com/Ushan2001/Ushan2001/main/banner-dark.svg" width="100%">
 </picture>
 
 </div>
@@ -70,14 +70,14 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ushan2001&theme=tokyonight" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ushan2001&theme=tokyonight" width="49%"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ushan2001&theme=tokyonight" alt="stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ushan2001&theme=tokyonight" alt="top langs" />
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ushan2001&theme=tokyonight&bg_color=0D1117&color=00D9FF&line=00D9FF&point=E6EDF3&area=true&hide_border=true" width="100%"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ushan2001&theme=tokyonight&bg_color=0D1117&color=00D9FF&line=00D9FF&point=E6EDF3&area=true&hide_border=true" alt="activity graph" />
 </div>
 
 ---
@@ -86,43 +86,35 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ushan2001/Ushan2001/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ushan2001/Ushan2001/output/snake-light.svg">
-    <img src="https://raw.githubusercontent.com/Ushan2001/Ushan2001/output/snake-dark.svg" alt="Contribution Snake" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ushan2001/Ushan2001/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ushan2001/Ushan2001/output/github-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Ushan2001/Ushan2001/output/github-snake-dark.svg" width="100%" />
   </picture>
 </div>
-
-> ⚠️ Don't add this section until the `Generate Snake` Action has run at least once — the `output` branch doesn't exist before that, and the images will 404.
 
 ---
 
 ## 🌐 Let's Connect
 
 <div align="center">
-
   <a href="https://linkedin.com/in/ushan-mihiranga" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/usha_nmihiranga" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-00D9FF?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
   </a>&nbsp;&nbsp;
   <a href="https://facebook.com/ushan.mihiranga" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-00D9FF?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=00D9FF&labelColor=0A101F" alt="Facebook" />
   </a>&nbsp;&nbsp;
   <a href="mailto:ushanmihiranga2017@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
   </a>&nbsp;&nbsp;
   <a href="https://ushanmihiranga.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=googlechrome&logoColor=00D9FF&labelColor=0A101F" alt="Portfolio" />
   </a>
-
 </div>
 
-<div align="center"><sub>
-⚠️ LinkedIn's shield.io logo only renders on brand blue <code>#0A66C2</code> — used above as-is rather than recolored, since on any custom color the glyph silently disappears and only the text remains.
-</sub></div>
-
----
+<br/>
 
 <div align="center">
   <sub>💙 If you like my work, a star means a lot 💙</sub>
