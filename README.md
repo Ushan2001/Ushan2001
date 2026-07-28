@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ushan2001/Ushan2001/main/assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ushan2001/Ushan2001/main/assets/banner-light.svg">
-  <img src="https://raw.githubusercontent.com/Ushan2001/Ushan2001/main/assets/banner-dark.svg" alt="Ushan Mihiranga" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg">
+  <img src="./banner-dark.svg" alt="Ushan Mihiranga" width="100%">
 </picture>
 
 </div>
