@@ -69,18 +69,16 @@
 
 ## 📊 GitHub Analytics
 
-> ⚠️ Replace `github-readme-stats.vercel.app` below with **your own self-hosted domain** once deployed (see checklist) — the public instance is shared by thousands and frequently rate-limits.
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ushan2001&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=E6EDF3" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ushan2001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ushan2001&theme=tokyonight" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ushan2001&theme=tokyonight" width="49%"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ushan2001&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF" width="100%"/>
-</div>
+<br>
 
-*`hide_rank=true` is intentional — the rank score is star-weighted and skews low for newer accounts regardless of actual activity, so it's more misleading than useful here.*
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ushan2001&theme=tokyonight&bg_color=0D1117&color=00D9FF&line=00D9FF&point=E6EDF3&area=true&hide_border=true" width="100%"/>
+</div>
 
 ---
 
